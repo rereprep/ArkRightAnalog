@@ -1,9 +1,9 @@
 # ArkRightAnalog
-ArkRightAnalog is a taihen plugin to enable right analog for ARK.
+ArkRightAnalog is a taihen plugin to enable right analog for custom remappings from within ARK.
 
 How to use:
 
-Put "freescreenshots.suprx" in 'tai' folder in the root of your Vita.
+Put "arkrightanalog.suprx" in 'tai' folder in the root of your Vita.
 Change config.txt in that directory to load plugin for title of your choice by adding new lines like below:
 
 # titleid for your game (this one is for Ape Escape Demo for example to enable right analog stick usage for ARK)
