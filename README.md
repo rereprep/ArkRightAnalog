@@ -20,3 +20,5 @@ All code belongs to flow, it was taken from the open source adrenaline app and h
 Disable Adrenaline's kernel plugin if you want to use this as they conflict. Also i noticed oclock plugin makes ARK blackscreen if enabled together with this.
 
 Have fun, also please notify me if you can also pass R2/L2/L3/R3 buttons to ePSP when DS3Vita/DS4Vita is used. Something i couldn't do.
+
+You can also use the EBOOT.PBP i provided to check if right analog info can be read, copy the eboot to your ux0:/pspemu/psp/game/controller folder. It is a modified version of basic controller sample found in PSP SDK, it can read info from regular PSP buttons/stick plus right analog and R2/L2/R3/L3 buttons. The last 4 buttons are for future compatibility.
