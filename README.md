@@ -6,7 +6,7 @@ How to use:
 Put "arkrightanalog.suprx" in 'tai' folder in the root of your Vita.
 Change config.txt in that directory to load plugin for title of your choice by adding new lines like below:
 
-# titleid for your game (this one is for Ape Escape Demo for example to enable right analog stick usage for ARK)
+ titleid for your game (this one is for Ape Escape Demo for example to enable right analog stick usage for ARK)
 *NPEG00005
 ux0:tai/arkrightanalog.suprx
 
