@@ -7,12 +7,13 @@ Put "arkrightanalog.suprx" in 'tai' folder in the root of your Vita.
 Change config.txt in that directory to load plugin for title of your choice by adding new lines like below:
 
  titleid for your game (this one is for Ape Escape Demo for example to enable right analog stick usage for ARK)
+ 
 *NPEG00005
 ux0:tai/arkrightanalog.suprx
 
 Additional plugins/homebrews should be used to utilize right analog stick to its fullest.
 
-You can use flow's GTA right analog plugins, Resistance plugin and freakler's Camera Patch Light plugin to make the most of this. Extra right analog stick remap plugins should be enabled from within ARK. This only makes the groundwork which Adrenaline already has.
+You can use flow's GTA right analog plugins, Resistance pspplus mappings plugin and freakler's Camera Patch Light plugin to make the most of this. Extra right analog stick remap plugins should be enabled from within ARK. This only makes the groundwork which Adrenaline already has.
 
 All code belongs to flow, it was taken from the open source adrenaline app and has been compiled as a stand-alone release. Also thanks to dots_tb for help.
 
